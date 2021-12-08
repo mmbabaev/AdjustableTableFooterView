@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "1eec42db0e1c91a62d8370f0dfd48b83f7bd8bd92de1d2264c967e0cb4f20c6e"
+    }
+  ],
+  "containerPath" : "/Users/babaevmm/Documents/TestTableFooterView/TestTableFooterView.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/babaevmm/Documents/TestTableFooterView/XcodeBuild/Intermediates.noindex",
+      "buildProductsPath" : "/Users/babaevmm/Documents/TestTableFooterView/XcodeBuild/Products",
+      "derivedDataPath" : "/Users/babaevmm/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/babaevmm/Library/Developer/Xcode/DerivedData/TestTableFooterView-ehcotwigrepobvfayfpoknoxvtzi/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/babaevmm/Library/Developer/Xcode/DerivedData/TestTableFooterView-ehcotwigrepobvfayfpoknoxvtzi/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/babaevmm/Documents/TestTableFooterView/XcodeBuild/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone10,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.0",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "57E17D4C-259D-4D00-A81D-615798556EE8",
+          "TARGET_DEVICE_MODEL" : "iPhone10,4",
+          "TARGET_DEVICE_OS_VERSION" : "15.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

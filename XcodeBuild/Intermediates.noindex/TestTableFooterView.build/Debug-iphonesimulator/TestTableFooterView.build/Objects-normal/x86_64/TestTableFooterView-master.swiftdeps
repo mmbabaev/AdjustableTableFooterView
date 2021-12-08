@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1638989469, 348477840]
+build_end_time: [1638989470, 363256931]
+inputs:
+  "/Users/babaevmm/Documents/TestTableFooterView/TestTableFooterView/AppDelegate.swift": [1638984819, 43282032]
+  "/Users/babaevmm/Documents/TestTableFooterView/TestTableFooterView/SceneDelegate.swift": [1638984819, 74800491]
+  "/Users/babaevmm/Documents/TestTableFooterView/TestTableFooterView/ViewController.swift": [1638989469, 186560153]
